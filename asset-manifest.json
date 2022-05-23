@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/Myportfolio-react/static/js/main.70e4b6c0.chunk.js",
+    "main.js.map": "/Myportfolio-react/static/js/main.70e4b6c0.chunk.js.map",
+    "runtime-main.js": "/Myportfolio-react/static/js/runtime-main.c9f0db49.js",
+    "runtime-main.js.map": "/Myportfolio-react/static/js/runtime-main.c9f0db49.js.map",
+    "static/css/2.679831fc.chunk.css": "/Myportfolio-react/static/css/2.679831fc.chunk.css",
+    "static/js/2.c35dde5f.chunk.js": "/Myportfolio-react/static/js/2.c35dde5f.chunk.js",
+    "static/js/2.c35dde5f.chunk.js.map": "/Myportfolio-react/static/js/2.c35dde5f.chunk.js.map",
+    "index.html": "/Myportfolio-react/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/Myportfolio-react/static/css/2.679831fc.chunk.css.map",
+    "static/js/2.c35dde5f.chunk.js.LICENSE.txt": "/Myportfolio-react/static/js/2.c35dde5f.chunk.js.LICENSE.txt",
+    "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014.jpg": "/Myportfolio-react/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014.jpg",
+    "static/media/profile-img.5179e446.png": "/Myportfolio-react/static/media/profile-img.5179e446.png",
+    "static/media/spaceman.5ec7fcfa.png": "/Myportfolio-react/static/media/spaceman.5ec7fcfa.png",
+    "static/media/u-said-it-v13-1167.949cee7e.mp3": "/Myportfolio-react/static/media/u-said-it-v13-1167.949cee7e.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9f0db49.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.c35dde5f.chunk.js",
+    "static/js/main.70e4b6c0.chunk.js"
+  ]
+}
